@@ -1,0 +1,10 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/prakashc/github/multipleNeovim-install
+startuppopupversion: 5
+customcommandshistory:
+- git
+- Q
+- git status
+hidecommandlog: false
+ignorewhitespaceindiffview: false
